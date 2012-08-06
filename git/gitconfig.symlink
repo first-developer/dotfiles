@@ -5,8 +5,8 @@
 [hub]
         protocol = https
 [user]
-        name = Zach Holman
-        email = zach@zachholman.com
+        name = first-developer
+        email = lioninho11@hotmail.fr
 [credential]
         helper = osxkeychain
 [alias]
@@ -31,3 +31,5 @@
         prompt = false
 [help]
         autocorrect = 1
+[gui]
+	recentrepo = /Users/firstdeveloper/Apps/Web/first-developer
